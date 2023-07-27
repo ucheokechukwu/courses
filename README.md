@@ -1,1 +1,2 @@
-# ml_ztm_projects
+# Pytorch for Deep Learning
+## 00. Fundamentals
