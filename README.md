@@ -1,2 +1,2 @@
 # Pytorch for Deep Learning
-## 00. Fundamentals
+Online Book - https://www.learnpytorch.io/
